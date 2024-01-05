@@ -1,0 +1,46 @@
+
+.all{
+    background-color: rgb(213, 159, 88);
+    color: black;
+    width: 800px;
+    height: 300px;
+   
+}
+
+.item-1{
+  font-size: 30px;
+  font-weight: 600;
+  
+  margin-right: 50px;
+}
+
+.item-2{
+    background-color: rgb(185, 97, 97);
+    color: #fff;
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.a{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 15px;
+}
+
+.item-4{
+    display: flex;  
+    flex-direction: row-reverse;
+    margin-right: 100px;
+   
+
+    
+    
+    
+    
+
+
+}
+
+
